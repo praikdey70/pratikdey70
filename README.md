@@ -7,7 +7,7 @@ Hi there! I'm currently doing my B.Tech and I love working with various programm
 ### 📂 My projects are available at [GitHub](https://github.com/pratikdey70)
 ### 📄 My Design: [Dribbble](https://dribbble.com/pratik70)
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praikdey70&label=Profile%20views&color=0e75b6&style=flat" alt="praikdey70" /> </p>
 
