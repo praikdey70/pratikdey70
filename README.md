@@ -1,6 +1,6 @@
-# Hello 👋, I'm [Your Name]
+# Hello 👋, I'm Pratik Dey
 
-### Application Developer
+### Mern Stack Developer
 
 Hi there! I'm currently doing my B.Tech and I love working with various programming languages. As a passionate web developer and UI designer, I enjoy creating beautiful and functional web experiences. Apart from coding and designing, I also like to travel and explore new places.
 
