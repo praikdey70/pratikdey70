@@ -34,9 +34,5 @@ Hi there! I'm currently doing my B.Tech and I love working with various programm
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praikdey70&show_icons=true&locale=en&layout=compact" alt="praikdey70" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praikdey70&show_icons=true&locale=en" alt="praikdey70" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praikdey70&" alt="praikdey70" /></p>
 
