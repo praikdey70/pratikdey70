@@ -30,6 +30,7 @@ Hi there! I'm currently doing my B.Tech and I love working with various programm
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praikdey70&show_icons=true&locale=en&layout=compact" alt="praikdey70" /></p>
