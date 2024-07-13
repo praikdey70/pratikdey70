@@ -8,7 +8,7 @@ Hi there! I'm currently doing my B.Tech and I love working with various programm
 ### 📄 My Design : (https://dribbble.com/pratik70)
 
 ### Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/pratik-dey-ab017322a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pratik-dey-ab017322a/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-purple)](https://www.instagram.com/yourinstagram)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://x.com/PratikD48858865)
 
